@@ -1,0 +1,7 @@
+rubika
+requests
+pillow
+arabic-reshaper
+python-bidi
+mutagen
+gtts
