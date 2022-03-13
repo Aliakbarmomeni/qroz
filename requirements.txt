@@ -1,7 +1,0 @@
-requests
-rubika==5.3.5googletrans==3.1.0a0
-pillow
-arabic-reshaper
-python-bidi
-mutagen
-gtts
