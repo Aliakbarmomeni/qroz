@@ -1,7 +1,0 @@
-rubika --upgrade
-requests
-pillow
-arabic-reshaper
-python-bidi
-mutagen
-gtts
